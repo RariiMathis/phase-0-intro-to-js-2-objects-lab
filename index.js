@@ -1,1 +1,8 @@
-// Write your solution in this file!
+function beforeEach(){
+employees = {
+    employee : {
+        name : `Sam`,
+        streetAddress : `11 Broadway`,
+    }
+}
+}
